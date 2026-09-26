@@ -1,0 +1,4 @@
+count = 0
+for number in range(7, 100, 7):
+    count = count+1
+print(count)
